@@ -1,7 +1,8 @@
 # hello-world
 Learning the ropes of Git Hub
 
-Take no note of the contents of this file.
-Do not process cheese.
+I am a software engineer learning GitHub and Python.
+
+I am already familiar with many programming languages.
 
 Thank you.
